@@ -3,6 +3,8 @@
 
 - I’m currently working on a to-do list.
 - I’m currently learning at TIG in the Czech Republic.
+- My favorite project is [Lunar Lander](https://github.com/MultiplayerJake/LunarLander)
+- I built a working YouTube video downloader. Check it out [here](https://github.com/MultiplayerJake/Youtube_videos_downloader)
 
 
 <!--
