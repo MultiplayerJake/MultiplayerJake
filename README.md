@@ -7,9 +7,9 @@
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Python]([https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white])
-![C#]([https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white])
-![C]([https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white])
+![Python](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
 **Databases** &nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
