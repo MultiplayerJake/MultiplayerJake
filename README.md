@@ -7,9 +7,9 @@
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![C#](https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
-![C](https://training-united.eu/wp-content/uploads/2023/03/C_Logo-1.png)
+![Python](<img width="16" height="16" alt="python" src="https://github.com/user-attachments/assets/ede1568e-f06a-47d2-9186-a88f8e08e9b0" />)
+![C#](<img width="16" height="16" alt="c-sharp" src="https://github.com/user-attachments/assets/b230fdb5-2a42-43f4-83f9-5483f1aff330" />)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
 
 **Databases** &nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
