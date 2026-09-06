@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer;Open%20Source%20Enthusiast)](https://git.io/typing-svg)
 
 </div>
+
 ![profile view count](https://komarev.com/ghpvc/?username=MultiplayerJake)
 
 - I’m currently working on a to-do list.
