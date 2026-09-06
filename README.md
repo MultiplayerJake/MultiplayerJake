@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hi there 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer;Open%20Source%20Enthusiast)](https://git.io/typing-svg)
+
 ## Hi there 👋
 ![profile view count](https://komarev.com/ghpvc/?username=MultiplayerJake)
 
