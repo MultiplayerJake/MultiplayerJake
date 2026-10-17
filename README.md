@@ -1,8 +1,5 @@
 # Hi there. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-
-![profile view count](https://komarev.com/ghpvc/?username=MultiplayerJake)
-
 - I’m currently working on a to-do list.
 - I’m currently learning at TIG in the Czech Republic.
 - My favorite project is [Lunar Lander](https://github.com/MultiplayerJake/LunarLander)
