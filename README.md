@@ -1,6 +1,6 @@
 # Hi there. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-- I’m currently working on a to-do list.
+- I’m currently working on a blackjack game.
 - I’m currently learning at TIG in the Czech Republic.
 - My favorite project is [Lunar Lander](https://github.com/MultiplayerJake/LunarLander)
 - I built a working YouTube video downloader. Check it out [here](https://github.com/MultiplayerJake/Youtube_videos_downloader)
