@@ -5,6 +5,7 @@
 - My favorite project is [Lunar Lander](https://github.com/MultiplayerJake/LunarLander)
 - I built a working YouTube video downloader. Check it out [here](https://github.com/MultiplayerJake/Youtube_videos_downloader)
 - I built a rhythm game. It's pretty fun; you can try it [here](https://github.com/MultiplayerJake/Rythm_game)
+- You can find my version of all known snake [here](https://github.com/MultiplayerJake/Snake)
 
 
 
