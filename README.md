@@ -1,7 +1,7 @@
 # Hi there. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 - I’m currently working on a blackjack game.
-- I’m currently learning at ITG in the Czech Republic.
+- I’m currently studying at ITG in the Czech Republic.
 - My favorite project is [Lunar Lander](https://github.com/MultiplayerJake/LunarLander)
 - I built a working YouTube video downloader. Check it out [here](https://github.com/MultiplayerJake/Youtube_videos_downloader)
 - I built a rhythm game. It's pretty fun; you can try it [here](https://github.com/MultiplayerJake/Rythm_game)
@@ -14,10 +14,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MultiplayerJake&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
 **MultiplayerJake/MultiplayerJake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
